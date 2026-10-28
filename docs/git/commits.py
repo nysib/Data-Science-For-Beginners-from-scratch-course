@@ -20,3 +20,9 @@
 # ```bash
 # git commit -m "fix: correct rounding logic in number formatting function" -m "The function rounded 2.5 down to 2 instead of up to 3. Updated to apply standard half-up rounding."
 # ```
+
+# ### Question 3. Adding new functionality: suppose you implemented a new generateReport function in the project. Make a fictional commit with the type feat, reflecting the addition of this functionality.
+#
+# ```bash
+# git commit -m "feat: add generateReport function" -m "Implements report generation that aggregates project data and outputs a formatted summary."
+# ```
