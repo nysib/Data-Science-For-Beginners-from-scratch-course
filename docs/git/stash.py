@@ -38,7 +38,7 @@
 
 # ### Question 10. Can you restore a stash after `git stash drop`?
 #
-# Answer: Not directly. It may sometimes be recovered via the reflog using `git fsck --unreachable` to find the dropped stash's commit hash, then `git stash apply <hash>` - but there's no guarantee before garbage collection.
+# Answer: Not directly. After `git stash drop` the stash entry is removed from the reflog, but the stash commit stays in the repository as an unreachable object until garbage collection. Its hash can be found with `git fsck --unreachable` and applied with `git stash apply <hash>`.
 
 # ### Question 11. What does `git stash save "NAME_STASH"` do?
 #
