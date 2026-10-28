@@ -32,3 +32,11 @@
 # ```bash
 # git commit -m "style: fix indentation and formatting across project" -m "Adjusted indentation and whitespace for consistency. No changes to code logic."
 # ```
+
+# ### Question 5. Documentation and testing
+#
+# Make a fictional commit with the type docs, adding or improving documentation for your new function.
+#
+# ```bash
+# git commit -m "docs: add documentation for generateReport function" -m "Added docstring and usage description explaining the function's parameters and output."
+# ```
