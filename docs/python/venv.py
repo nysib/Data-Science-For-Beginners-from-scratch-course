@@ -160,4 +160,5 @@
 
 # **Question 13.** Delete the VENV folder - it's no longer needed, we're not developers, we only need conda.
 #
-# **Answer:** Deleted the `SENATOROV` venv folder from the repository, since the workflow will use the conda environment only: Remove-Item -Recurse -Force SENATOROV
+# **Answer:** Deleted the `SENATOROV` venv folder from the repository, since the workflow will use the conda environment only:
+# `Remove-Item -Recurse -Force SENATOROV`
