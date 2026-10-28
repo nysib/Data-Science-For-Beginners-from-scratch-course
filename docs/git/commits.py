@@ -26,3 +26,9 @@
 # ```bash
 # git commit -m "feat: add generateReport function" -m "Implements report generation that aggregates project data and outputs a formatted summary."
 # ```
+
+# ### Question 4. Modifying code format or styles: imagine that you fixed the indentation and formatting across the whole project without changing the code logic. Make a fictional commit with the type style.
+#
+# ```bash
+# git commit -m "style: fix indentation and formatting across project" -m "Adjusted indentation and whitespace for consistency. No changes to code logic."
+# ```
