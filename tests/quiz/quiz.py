@@ -229,10 +229,10 @@
 # **Answer: Git is a version control system. It is local (stored in the .git folder), it tracks the full history of file changes, and I can return to any earlier commit.**
 #
 # 8) How do you insert an image in markdown?
-# **Answer: ![alt text](path/to/image.png) - or an HTML img tag for more control over size. [7:58]**
+# **Answer: `![alt text](path/to/image.png)` - or an HTML img tag for more control over size. [7:58]**
 #
 # 9) Where do you see line length in Cursor?
-# **Answer: In the bottom status bar - it shows "Ln X, Col Y" (the line and column of the cursor). To read a line's length, put the cursor at the end of the line; the Col number then equals the number of characters. A ruler can also be set via editor.rulers (e.g. 79) to mark the PEP8 limit.**
+# **Answer: In the bottom status bar - it shows "Ln X, Col Y" (the line and column of the cursor). Col starts at 1, so with the cursor at the end of a line of N characters the status bar shows Col N+1: the Col value is one more than the number of characters. A ruler can also be set via editor.rulers (e.g. 79) to mark the PEP8 limit.**
 #
 # 10) How do you change a cell type from Python to markdown?
 # **Answer: Select the cell, press Esc then M (command mode), or use the cell type dropdown.**
