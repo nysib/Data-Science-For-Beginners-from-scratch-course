@@ -40,3 +40,9 @@
 # ```bash
 # git commit -m "docs: add documentation for generateReport function" -m "Added docstring and usage description explaining the function's parameters and output."
 # ```
+#
+# Make a fictional commit with the type test, adding tests for that same function.
+#
+# ```bash
+# git commit -m "test: add tests for generateReport function" -m "Added unit tests covering normal input, empty input, and edge cases."
+# ```
