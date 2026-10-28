@@ -18,7 +18,7 @@
 #
 # C (with parts of the standard library written in Python).
 
-# ### 5. (optional).  Who created CPython?
+# ### 5. (optional) Who created CPython?
 #
 # Guido van Rossum
 
@@ -76,7 +76,7 @@
 
 # ### 17. How do you install PyPy after downloading?
 #
-# Extract the downloaded zip file, un-zip, and copy to a desired folder; optionally add it to PATH so `pypy` is callable.
+# Unzip the downloaded archive and copy it to a desired folder; optionally add it to PATH so `pypy` is callable.
 
 # ### 18. How do you run a file with PyPy?
 #
