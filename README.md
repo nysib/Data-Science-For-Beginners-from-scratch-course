@@ -194,6 +194,8 @@ This repository is designed for:
 
 #### https://t.me/RuslanSenatorov
 
+#### https://t.me/SENATOROVAI
+
 #### https://SenatorovAI.com
 
 ---
