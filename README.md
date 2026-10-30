@@ -192,6 +192,10 @@ This repository is designed for:
 
 ## 📬 Contact
 
+#### https://t.me/RuslanSenatorov
+
+#### https://t.me/SENATOROVAI
+
 #### https://SenatorovAI.com
 
 ---
