@@ -177,7 +177,7 @@
 # Open the pull request on the **Conversation** tab, scroll to the bottom and click
 # **Close pull request**. This closes it without merging.
 #
-# **Not done yet: the required screenshot is missing.**
+# ![Close pull request button](images/close-pr.png)
 
 # ## 3.3 Do you need to create an issue before sending a pull request?
 
